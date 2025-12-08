@@ -1,5 +1,5 @@
 Snapmaker U1 Extended Firmware
-Copyright (c) 2024–2025  Contributors
+Copyright (c) 2024-2025  The Snapmaker U1 Extended Firmware contributors
 
 This project is licensed under the GNU General Public License, version 3.0 only
 ("GPL-3.0-only").
@@ -40,6 +40,8 @@ dealings in the software, including but not limited to:
   * Data loss or privacy issues
 
 If you do not accept these terms, do not use this project.
+
+This notice is provided for convenience and is not legal advice.
 
 -------------------------------------------------------------------------------
 GPL-3.0-ONLY LICENSE TEXT

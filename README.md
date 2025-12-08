@@ -1,8 +1,8 @@
 # Snapmaker U1 Extended Firmware (Unofficial)
 
-> **Unofficial — use at your own risk.**  
-> **May void your warranty.**  
-> **Does NOT contain any Snapmaker proprietary files.**
+> **Unofficial — use at your own risk.**
+> **May void your warranty.**
+> **Intended not to contain any Snapmaker proprietary files.**
 
 This is a community project and is **not** affiliated with, endorsed by, or supported by Snapmaker.
 
@@ -127,6 +127,9 @@ Snapmaker firmware.
 
 ## Legal / licensing
 
+> **Note:** The following is a high-level summary and is **not legal advice**.
+> If you need certainty about your rights or obligations, talk to a lawyer.
+
 ### Project license (this repo)
 
 All original code, scripts, overlays, and documentation in this repository are
@@ -153,8 +156,9 @@ reproduce them.
 
 - The official U1 firmware image you download from Snapmaker combines GPL components
   and proprietary Snapmaker software (GUI, services, cloud integration, etc.).
-- Snapmaker’s terms grant you a personal, non‑transferable license to use those
-  proprietary parts on Snapmaker devices and prohibit copying or redistribution.
+- Snapmaker’s terms generally grant you a personal, non‑transferable license to
+  use those proprietary parts on Snapmaker devices and may restrict copying,
+  modification, and redistribution.
 
 This project:
 
@@ -162,6 +166,9 @@ This project:
 - Treats the official U1 firmware as an **external input** you obtain under
   Snapmaker’s terms.
 - Licenses only this project’s own code and assets under GPL‑3.0‑only.
+
+By default, this project expects users to **build firmware locally** from an
+official Snapmaker U1 firmware image they download under Snapmaker’s terms.
 
 If pre‑built firmware images produced by this project are distributed, they may
 embed Snapmaker proprietary components. Those parts remain governed by Snapmaker’s
@@ -189,5 +196,18 @@ See `CONTRIBUTING.md` for the full contributor terms and coding guidelines.
 ## Acknowledgements
 
 - **Snapmaker** — for the U1 hardware and firmware.
-- **Klipper, Moonraker, Fluidd** — for the open‑source stack this project builds upon.
+- **Klipper, Moonraker, Fluidd** — for the open-source stack this project builds upon.
 - Everyone in the community who tests, reports issues, and sends patches.
+
+## Support
+
+If you find this project useful and would like to support its development, you can:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/paxx12)
+
+## License
+
+See `LICENSE` for the full terms.
+
+Snapmaker® is a trademark of Snapmaker. Any use of the name here is for
+identification and compatibility purposes only.

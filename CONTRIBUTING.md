@@ -11,6 +11,8 @@ Before you open a pull request, please read and agree to the terms below.
 
 This project is licensed under **GPL-3.0-only**.  
 All accepted contributions will be distributed under the same license.
+By contributing, you agree that your Contribution will be licensed under
+**GPL-3.0-only**.
 
 By contributing, you agree that your changes may be included in future
 GPL-licensed releases as source code and/or as part of firmware images
@@ -67,6 +69,8 @@ Some quick guidelines to keep things pleasant:
 - Document user-visible changes in the docs or `RELEASE.md`.
 - For risky changes (boot, updates, safety logic), please open an issue/thread
   to discuss the approach before sending a big patch.
+- When in doubt, assume your change can brick a printer or reduce safety and
+  treat it accordingly.
 
 ---
 
