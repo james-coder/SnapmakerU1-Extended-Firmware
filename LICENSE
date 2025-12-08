@@ -1,0 +1,55 @@
+Snapmaker U1 Extended Firmware
+Copyright (c) 2024–2025  Contributors
+
+This project is licensed under the GNU General Public License, version 3.0 only
+("GPL-3.0-only").
+
+The GPL-3.0-only license applies to all original code, configuration, build
+tooling, and documentation in this repository, except where a file or directory
+explicitly specifies a different license.
+
+-------------------------------------------------------------------------------
+SAFETY AND LIABILITY NOTICE
+-------------------------------------------------------------------------------
+
+This project deals with 3D printer firmware and related tooling. Using the code
+in this repository, or any firmware images built from it, may result in:
+
+  * Misconfigured or malfunctioning printers
+  * Hardware damage or destruction
+  * Property damage, including risk of fire
+  * Loss or corruption of data
+  * Personal injury
+
+You use this project entirely at your own risk.
+
+The maintainers and contributors provide this project WITHOUT ANY WARRANTY,
+to the maximum extent permitted by applicable law. This includes, but is not
+limited to, implied warranties of merchantability, fitness for a particular
+purpose, and non-infringement.
+
+In no event shall the authors or contributors be liable for any claim, damages,
+or other liability, whether in an action of contract, tort, or otherwise,
+arising from, out of, or in connection with the software or the use or other
+dealings in the software, including but not limited to:
+
+  * Device malfunction or failure
+  * Loss of prints or materials
+  * Damage to printers or other property
+  * Fires or other safety incidents
+  * Data loss or privacy issues
+
+If you do not accept these terms, do not use this project.
+
+-------------------------------------------------------------------------------
+GPL-3.0-ONLY LICENSE TEXT
+-------------------------------------------------------------------------------
+
+The full legal terms for this project are those of the GNU General Public
+License, version 3.0 only.
+
+To complete this LICENSE file, append the unmodified text of the GNU General
+Public License version 3.0, as published by the Free Software Foundation.
+
+You can obtain the official text from the Free Software Foundation website or
+from any standard GPL-licensed project.
